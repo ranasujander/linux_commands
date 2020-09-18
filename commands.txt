@@ -1,0 +1,4 @@
+ps -u -> gives all the processes run by user
+
+kill -9 <PID> -> kill the process of given PID
+
