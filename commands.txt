@@ -2,3 +2,7 @@ ps -u -> gives all the processes run by user
 
 kill -9 <PID> -> kill the process of given PID
 
+wc -l <filename> -> gives the number of lines(rows) in the file
+
+htop -u <user> -> shows all the proceesses by user
+
